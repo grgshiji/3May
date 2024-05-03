@@ -1,0 +1,16 @@
+{
+  "name": "3May",
+  "type": "package",
+  "blockId": "UUn7CvNkvncsLYT5JxTHf",
+  "source": {
+    "https": "https://github.com/grgshiji/3May.git",
+    "ssh": "git@github.com:grgshiji/3May.git",
+    "branch": "block_3May"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
