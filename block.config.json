@@ -15,10 +15,15 @@
   "repoType": "mono",
   "dependencies": {
     "3May_B1": {
-      "directory": "3May_B1"
+      "directory": "3May_B1",
+      "versionId": "4j7zqnj8Kk9GCv9FEH7Nj",
+      "version": "0.0.1"
     },
     "3May_B2": {
-      "directory": "3May_B2"
+      "directory": "3May_B2",
+      "versionId": "ivramRcz1ym9em_JGhmnO",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1"
 }
