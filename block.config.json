@@ -1,0 +1,16 @@
+{
+  "name": "3May",
+  "type": "package",
+  "blockId": "UUn7CvNkvncsLYT5JxTHf",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_3May"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
